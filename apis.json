@@ -1,0 +1,56 @@
+{
+    "name": "The Delib Team",
+    "description": "Things that excite us: civic tech, digital democracy, citizen engagement, placemaking, mayors, budget consultation, deliberation, participative governance",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/citizen-space.png",
+    "tags": [
+        "have api",
+        "projects"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/the-delib-team\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "The Delib Team",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/citizen-space.png",
+            "humanURL": "https:\/\/www.citizenspace.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/the-delib-team-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/the-delib-team-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/demo.citizenspace.com\/api\/"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/demo.citizenspace.com\/api\/2.1"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/citizenspace"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/delibthinks"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.citizenspace.com"
+        }
+    ]
+}
